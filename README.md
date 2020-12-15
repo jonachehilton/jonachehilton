@@ -9,7 +9,7 @@
 
 - Third Year Bachelor of Information Technology Student  @ James Cook Univeristy 
 - Service Desk Analyst @ Glencore Copper / Mount Isa Mines
-- I have a passion for programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- I love programming! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Goal for 2020: Contribute to at least 5 Open Source Project's
 
 ---
