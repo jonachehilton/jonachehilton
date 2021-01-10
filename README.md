@@ -1,6 +1,6 @@
 # Hi there, I'm Jonache Hilton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-jonachehilton-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](www.linkedin.com/in/jonachehilton)
+[![Linkedin Badge](https://img.shields.io/badge/-jonachehilton-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jonachehilton)
 [![Medium Badge](https://img.shields.io/badge/-@joni.hilton1-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@joni.hilton1)
 [![Gmail Badge](https://img.shields.io/badge/-joni.hilton1-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:joni.hilton1@gmail.com)
 
